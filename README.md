@@ -8,3 +8,5 @@ Simple bot #discordjs #ddosattack
   npm init
   npm install
   ```
+
+  !kill 1.1.1.1 8080 udp-star
