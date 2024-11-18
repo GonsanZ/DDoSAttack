@@ -23,7 +23,7 @@ const intents = new Intents([
 const bot = new Client({ intents });
 
 bot.once('ready', () => {
-    console.log('Bot is ready.');
+    console.log('Bot listo.');
 });
 
 const whitelistedIds = ['', '', '', ''];
